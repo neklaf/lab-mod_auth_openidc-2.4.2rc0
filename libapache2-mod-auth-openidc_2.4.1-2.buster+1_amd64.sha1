@@ -1,0 +1,2 @@
+$ openssl sha1 libapache2-mod-auth-openidc_2.4.1-2.buster+1_amd64.deb 
+SHA1(libapache2-mod-auth-openidc_2.4.1-2.buster+1_amd64.deb)= 8290e785316ec34e53aaae9d6b53a1623f6e7678
